@@ -2,7 +2,7 @@
     "canisters": {
         "icp_simple_site": {
             "frontend": {
-                "entrypoint": "src\hello.html"
+                "entrypoint": "src/hello.html"
             },
             "source": ["src"],
             "type": "assets"
